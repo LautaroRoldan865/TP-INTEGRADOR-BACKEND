@@ -1,6 +1,6 @@
 # TP-INTEGRADOR-BACKEND - Grupo R
 ### 🧑‍🏫 Docentes:
-- _**Ing. Casani**_, Matias <br/>
+- _**Ing. Cassani**_, Matias <br/>
 - _**Ing. Theiler**_, Matias <br/>
 
 ### :technologist: Integrantes:
